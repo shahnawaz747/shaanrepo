@@ -2,3 +2,11 @@
 This is really took long to get this code here
 after assigning access permission 
 
+
+
+
+How to add /push 
+
+Go ti developer setting ->apersonnel acess tocken> Generate new tocken >Note >repo >Generate tocken> copy and save tocken 
+
+then set access policy at account and repo level 
